@@ -48,7 +48,6 @@
 - 💌 Email: `your.email@example.com`  
 - 🐦 Telegram: `@yourhandle`  
 
-![vjmurenko's Stats](https://github-readme-stats.vercel.app/api?username=vjmurenko&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![vjmurenko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vjmurenko&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 > 💡 Обо мне: Люблю экспериментировать с новыми технологиями и превращать идеи в работающий продукт!
