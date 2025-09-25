@@ -45,8 +45,7 @@
 - 🤖 Автоматизация сборки и деплоя (CI/CD)
 
 ## 📫 Связаться со мной
-- 💌 Email: `your.email@example.com`  
-- 🐦 Telegram: `@yourhandle`  
+- ✈ [Telegram](https://t.me/secondseven7)
 
 ![vjmurenko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vjmurenko&theme=default&show_icons=true&hide_border=true&layout=compact)
 
