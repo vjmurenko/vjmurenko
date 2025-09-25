@@ -2,8 +2,6 @@
 
 Привет! 👋 Я Fullstack / Backend разработчик, обожаю чистый код, масштабируемые архитектуры и автоматизацию процессов.  
 
----
-
 ## 🛠️ Технологический стек
 
 ### Backend
@@ -46,16 +44,11 @@
 - 📈 Мониторинг и логирование (Graylog)  
 - 🤖 Автоматизация сборки и деплоя (CI/CD)
 
----
-
----
-
 ## 📫 Связаться со мной
 - 💌 Email: `your.email@example.com`  
 - 🐦 Telegram: `@yourhandle`  
 
----
-![vjmurenko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vjmurenko&theme=default&show_icons=true&hide_border=true&layout=compact)
+![vjmurenko's Stats](https://github-readme-stats.vercel.app/api?username=vjmurenko&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![vjmurenko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vjmurenko&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 > 💡 Обо мне: Люблю экспериментировать с новыми технологиями и превращать идеи в работающий продукт!
