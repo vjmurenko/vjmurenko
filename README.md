@@ -1,6 +1,4 @@
-# 🎉 Vladimir – Backend & Fullstack Developer 🚀
-
-Привет! 👋 Я Backend / Fullstack разработчик, обожаю чистый код, масштабируемые архитектуры и автоматизацию процессов.  
+#  Vladimir – Software Developer 
 
 ## 🛠️ Технологический стек
 
